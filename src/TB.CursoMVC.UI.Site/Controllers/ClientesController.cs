@@ -15,7 +15,6 @@ namespace TB.CursoMVC.UI.Site.Controllers
 {
     public class ClientesController : Controller
     {
-        //private ApplicationDbContext db = new ApplicationDbContext();
         private readonly IClienteAppService _clienteAppService;
 
         public ClientesController()
@@ -52,8 +51,6 @@ namespace TB.CursoMVC.UI.Site.Controllers
         }
 
         // POST: Clientes/Create
-        // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
-        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "Id,Nome,Email,CPF,DataNascimento,DataCadastro,Ativo,Excluido")] ClienteEnderecoViewModel clienteEnderecoViewModel)
