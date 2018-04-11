@@ -1,0 +1,16 @@
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Application\bin\Debug\TB.CursoMVC.Application.dll
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Application\bin\Debug\TB.CursoMVC.Application.pdb
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Application\bin\Debug\AutoMapper.dll
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Application\bin\Debug\TB.CursoMVC.Domain.dll
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Application\bin\Debug\TB.CursoMVC.Infra.Data.dll
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Application\bin\Debug\EntityFramework.dll
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Application\bin\Debug\TB.CursoMVC.Domain.pdb
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Application\bin\Debug\TB.CursoMVC.Infra.Data.pdb
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Application\bin\Debug\TB.CursoMVC.Infra.Data.dll.config
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Application\bin\Debug\AutoMapper.xml
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Application\bin\Debug\EntityFramework.xml
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Application\obj\Debug\TB.CursoMVC.Application.csprojResolveAssemblyReference.cache
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Application\obj\Debug\TB.CursoMVC.Application.csproj.CoreCompileInputs.cache
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Application\obj\Debug\TB.CursoMVC.Application.csproj.CopyComplete
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Application\obj\Debug\TB.CursoMVC.Application.dll
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Application\obj\Debug\TB.CursoMVC.Application.pdb

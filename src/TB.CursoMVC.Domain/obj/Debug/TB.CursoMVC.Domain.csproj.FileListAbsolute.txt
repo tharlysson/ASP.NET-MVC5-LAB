@@ -1,0 +1,6 @@
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Domain\bin\Debug\TB.CursoMVC.Domain.dll
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Domain\bin\Debug\TB.CursoMVC.Domain.pdb
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Domain\obj\Debug\TB.CursoMVC.Domain.csprojResolveAssemblyReference.cache
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Domain\obj\Debug\TB.CursoMVC.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Domain\obj\Debug\TB.CursoMVC.Domain.dll
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Domain\obj\Debug\TB.CursoMVC.Domain.pdb

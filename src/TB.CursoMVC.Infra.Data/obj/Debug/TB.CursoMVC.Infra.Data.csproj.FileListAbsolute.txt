@@ -1,0 +1,14 @@
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Infra.Data\bin\Debug\TB.CursoMVC.Infra.Data.dll.config
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Infra.Data\bin\Debug\TB.CursoMVC.Infra.Data.dll
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Infra.Data\bin\Debug\TB.CursoMVC.Infra.Data.pdb
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Infra.Data\bin\Debug\EntityFramework.dll
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Infra.Data\bin\Debug\TB.CursoMVC.Domain.dll
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Infra.Data\bin\Debug\TB.CursoMVC.Domain.pdb
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Infra.Data\bin\Debug\EntityFramework.xml
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Infra.Data\obj\Debug\TB.CursoMVC.Infra.Data.csprojResolveAssemblyReference.cache
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Infra.Data\obj\Debug\TB.CursoMVC.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Infra.Data\obj\Debug\TB.CursoMVC.Infra.Data.csproj.CopyComplete
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Infra.Data\obj\Debug\TB.CursoMVC.Infra.Data.dll
+D:\Projetos\asp.net mvc\CursoMVC\src\TB.CursoMVC.Infra.Data\obj\Debug\TB.CursoMVC.Infra.Data.pdb
